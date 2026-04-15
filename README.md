@@ -1,56 +1,32 @@
-<h1 align="center">Hi 👋, I'm Chandru</h1>
+# Hi 👋, I'm Chandru
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Developer;IoT+Enthusiast;Full+Stack+Learner"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chandusrinivasa&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
+🎓 Engineering Student  
+💻 Passionate about Web Development, Artificial Intelligence, Full Stack Development, and Computer Networks  
+🚀 Currently working on a Crop Detection project
 ---
 
-## 🚀 About Me
-
-<p align="center">
-🎓 Engineering Student <br>
-💡 Passionate about AI, IoT & Web Development <br>
-🧠 Built Fetal Brain Abnormality Detection System
-</p>
-
----
-
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,fastapi,mysql,git,github" />
-</p>
+## 🔧 Skills
+- Programming: Python, Java  
+- Web: HTML, CSS, React  
+- Backend: FastAPI  
+- Database: MySQL  
+- Tools: Git & GitHub  
 
 ---
 
 ## 📌 Projects
-
-<p align="center">
-🔹 Smart IoT Controller <br>
-🔹 Agriculture App <br>
-🔹 Fetal Brain Abnormality Detection
-</p>
+- 🔹 Smart IoT Controller  
+- 🔹 
+- 🔹 Fetal Brain Abnormality Detection (AI/ML project using medical imaging)  
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandusrinivasa&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandusrinivasa&theme=tokyonight" />
-</p>
+![Stats](https://github-readme-stats.vercel.app/api?username=chandusrinivasa&show_icons=true&theme=radical)
 
 ---
 
-## 🌐 Connect with me
+## 📫 Connect 
 
-<p align="center">
-<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-</p>
+- 📧 Email: chandushree70@gmail.com  
+- 💼 LinkedIn: [chandushree-b-s](https://www.linkedin.com/in/chandushree-b-s)
