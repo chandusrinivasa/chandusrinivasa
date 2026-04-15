@@ -1,40 +1,56 @@
-<h1 align="center">Hi 👋, I'm Chandu</h1>
+<h1 align="center">Hi 👋, I'm Chandru</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+Developer;IoT+Enthusiast;Full+Stack+Learner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=AI+Developer;IoT+Enthusiast;Full+Stack+Learner"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=chandusrinivasa&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 Engineering Student  
-- 💻 AI, IoT & Web Development  
-- 🔬 Built Fetal Brain Abnormality Detection system  
+
+<p align="center">
+🎓 Engineering Student <br>
+💡 Passionate about AI, IoT & Web Development <br>
+🧠 Built Fetal Brain Abnormality Detection System
+</p>
 
 ---
 
-## 🔧 Tech Stack
+## ⚡ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,react,html,css,js,fastapi,mysql,git,github" />
+</p>
 
 ---
 
 ## 📌 Projects
-- 🔹 weather Detection 
-- 🔹 Crop demand web application  
-- 🔹 Fetal Brain Abnormality Detection  
+
+<p align="center">
+🔹 Smart IoT Controller <br>
+🔹 Agriculture App <br>
+🔹 Fetal Brain Abnormality Detection
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=chandusrinivasa&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandusrinivasa&show_icons=true&theme=tokyonight" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandusrinivasa&theme=tokyonight" />
+</p>
 
 ---
 
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=chandusrinivasa&color=blue)
+## 🌐 Connect with me
+
+<p align="center">
+<a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="#"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
