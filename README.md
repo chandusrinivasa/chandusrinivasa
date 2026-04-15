@@ -1,47 +1,40 @@
-# Hi 👋, I'm Chandu
+<h1 align="center">Hi 👋, I'm Chandu</h1>
 
-🎓 Engineering Student  
-💻 Interested in AI, IoT & Web Development  
-🚀 Currently working on Smart Device Control System  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=AI+Developer;IoT+Enthusiast;Full+Stack+Learner"/>
+</p>
 
 ---
 
-## 🔧 Skills
-- Programming: Python, Java, c
-- Web: HTML, CSS, React
-- computer network 
-- Backend: FastAPI  
-- Database: MySQL,sql
-- Tools: Git & GitHub  
+## 🚀 About Me
+- 🎓 Engineering Student  
+- 💻 AI, IoT & Web Development  
+- 🔬 Built Fetal Brain Abnormality Detection system  
+
+---
+
+## 🔧 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![FastAPI](https://img.shields.io/badge/FastAPI-green?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
 ---
 
 ## 📌 Projects
-- 🔹 whether Detection 
-- 🔹 Crop demanding web application
-- 🔹 Fetal Brain Abnormality Detection (AI/ML project using medical imaging)  
+- 🔹 weather Detection 
+- 🔹 Crop demand web application  
+- 🔹 Fetal Brain Abnormality Detection  
 
 ---
 
 ## 📊 GitHub Stats
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=chandusrinivasa&show_icons=true&theme=radical)
 
 ---
 
-## 📫 Contact
-- Email: chandushree70@gmail.com
-
-<!--
-**chandusrinivasa/chandusrinivasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=chandusrinivasa&color=blue)
