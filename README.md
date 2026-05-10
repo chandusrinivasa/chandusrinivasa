@@ -1,4 +1,4 @@
-# Hi 👋, I'm Chandru
+# Hi 👋, I'm Chandu
 
 🎓 Engineering Student  
 💻 Passionate about Web Development, Artificial Intelligence, Full Stack Development, and Computer Networks  
